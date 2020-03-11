@@ -1,2 +1,1 @@
-# freecodemalonda
-code lessons
+# Backend Challenges boilerplate - package.json
